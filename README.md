@@ -8,4 +8,6 @@ This project is a starting point for a Flutter application.
 
 ## Screenshots
 
-![image](screenshots/screenshot1)
+![image](screenshots/screenshot1.png)
+![image](screenshots/screenshot2.png)
+
